@@ -1,0 +1,6 @@
+{
+  "name": "OmniCreate AI Suite",
+  "description": "A comprehensive 6-in-1 AI platform featuring Video Creation, Image Generation, Image Editing, AI Writing, Transcription, and Text-to-Speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
